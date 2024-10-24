@@ -22,4 +22,4 @@ export const sortProducts = (
       return +a.price - +b.price;
     }
   });
-};
+}
