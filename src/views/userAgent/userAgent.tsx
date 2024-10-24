@@ -19,4 +19,4 @@ export const UserAgent: React.FC<UserAgentProps> = ({ userAgent }) => {
       )}
     </div>
   );
-};
+}
